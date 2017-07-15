@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<portable-config>
+    <config-file path="WEB-INF/classes/config/config.properties">
+
+        <!-- JDBC -->
+        <replace key="jdbc.driver"><![CDATA[com.mysql.jdbc.Driver]]></replace>
+        <replace key="jdbc.url"><![CDATA[jdbc:mysql://192.168.1.91:30112/fff2f025c2b04?useUnicode=true&characterEncoding=utf-8]]></replace>
+        <replace key="jdbc.username">a6564a1169d94</replace>
+        <replace key="jdbc.password">d3e6d1aea5e04</replace>
+
+        <!-- hibernate -->
+        <replace key="hibernate.show.sql">false</replace>
+        <replace key="hibernate.hbm2ddl.auto">none</replace>
+
+        <!-- debug -->
+        <replace key="app.debug">false</replace>
+        <replace key="app.env">online</replace>
+        <replace key="logback.level">INFO</replace>
+        <replace key="jdbc.resultsettable">ERROR</replace>
+
+
+    </config-file>
+</portable-config>

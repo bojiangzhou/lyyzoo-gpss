@@ -1,0 +1,578 @@
+.silk-plan-manage {
+    background-image: url(images/plan_manage.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-add-course {
+    background-image: url(images/add_course.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-sen {
+    background-image: url(images/sencha.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-sencha {
+    background-image: url(images/sencha.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-grant {
+    background-image: url(images/grant.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-dashboard {
+    background-image: url(images/dashboard.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-find {
+    background-image: url(images/find.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-add {
+    background-image: url(images/add.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-form-add {
+    background-image: url(images/form-add.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-recover {
+    background-image: url(images/recover.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-update {
+    background-image: url(images/update.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-event {
+    background-image: url(images/event.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-save {
+    background-image: url(images/save.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-photo {
+    background-image: url(images/photo.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-delete {
+    background-image: url(images/delete.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-config {
+    background-image: url(images/config.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-project {
+    background-image: url(images/project.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-menu {
+    background-image: url(images/menus.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-details {
+    background-image: url(images/details.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-upload {
+    background-image: url(images/upload.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-printer {
+    background-image: url(images/printer.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-refresh {
+    background-image: url(images/refresh.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-info {
+    background-image: url(images/info.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-warn {
+    background-image: url(images/warn.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-audit {
+    background-image: url(images/audit.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-refresh-green {
+    background-image: url(images/refresh-green.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-refresh-blue {
+    background-image: url(images/refresh-blue.gif) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-refresh-grayblue {
+    background-image: url(images/refresh-grayblue.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-dust-bin {
+    background-image: url(images/dust-bin.gif) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-user {
+    background-image: url(images/user.gif) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-lock {
+    background-image: url(images/form-lock.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-unlock {
+    background-image: url(images/form-unlock.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-star {
+    background-image: url(images/star.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-page-white-csharp {
+    background-image: url(images/page_white_csharp.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-bug {
+    background-image: url(images/bug.png) !important;
+    background-repeat: no-repeat;
+}
+
+/************************ file ************************/
+
+.silk-folder {
+    background-image: url(images/folder.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-script {
+    background-image: url(images/script.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-xhtml {
+    background-image: url(images/xhtml.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-excel {
+    background-image: url(images/excel.gif) !important;
+    background-repeat: no-repeat;
+}
+
+/************************ grid ************************/
+.silk-ledger {
+    background-image: url(images/ledger.png) !important;
+    background-repeat: no-repeat;
+}
+
+/************************ tree ************************/
+.silk-collapse {
+    background-image: url(images/collapse.gif) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-collapse-ns {
+    background-image: url(images/collapse-ns.gif) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-collapse-tree {
+    background-image: url(images/collapse-tree.gif) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-expand {
+    background-image: url(images/expand.gif) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-expand-ns {
+    background-image: url(images/expand-ns.gif) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-expand-tree {
+    background-image: url(images/expand-tree.gif) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-application-view-detail {
+    background-image: url(images/application_view_detail.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-application-view-gallery {
+    background-image: url(images/application_view_gallery.png) !important;
+    background-repeat: no-repeat;
+}
+
+/************************ win ************************/
+.silk-win {
+    background-image: url(images/win.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-arrow-left {
+    background-image: url(images/arrow_left.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-arrow-right {
+    background-image: url(images/arrow_right.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-accept {
+    background-image: url(images/qq-accept.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-cancel {
+    background-image: url(images/cross.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-pencil {
+    background-image: url(images/pencil.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-pencil-add {
+    background-image: url(images/pencil_add.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-pencil-delete {
+    background-image: url(images/pencil_delete.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-pencil-go {
+    background-image: url(images/pencil_go.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-preview {
+    background-image: url(images/preview.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-cross {
+    background-image: url(images/qq-cross.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-certificate {
+    background-image: url(images/certificate.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-portrait {
+    background-image: url(images/portraits.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-tick {
+    background-image: url(images/tick.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-form-delete {
+    background-image: url(images/form-delete.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-reset {
+    background-image: url(images/reset.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-psd-reset {
+    background-image: url(images/psd-reset.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-export {
+    background-image: url(images/export.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-import {
+    background-image: url(images/import.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-payment {
+    background-image: url(images/return-premium.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-return-premium {
+    background-image: url(images/payment.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-form-update {
+    background-image: url(images/form-update.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-form-search {
+    background-image: url(images/form-search.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-magnifier {
+    background-image: url(images/magnifier.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-light-blue {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/light_blue.gif) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-light-green {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/light_green.gif) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-light-red {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/light_red.gif) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-eye {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/eye.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-chart-bar {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/chart_bar.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-chart-curve {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/chart_curve.png) !important;
+    background-repeat: no-repeat;
+}
+
+.silk-chart-line {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/chart_line.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-chart-pie {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/chart_pie.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-role {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/role.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-declare{
+     height: 16px;
+    width: 16px;
+    background-image: url(images/declare.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-archive{
+     height: 16px;
+    width: 16px;
+    background-image: url(images/archive.png) !important;
+    background-repeat: no-repeat;
+}
+/***********dts***********/
+.silk-history-route {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/history-route.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-course-set {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/course-set.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-period-set {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/period-set.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-check-route {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/check-route.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-portrait-add {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/portrait-add.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-portrait-delete {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/portrait-delete.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-portrait-change {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/portrait-change.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-portrait-check {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/portrait-check.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-export-excel {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/export-excel.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-coach-distribution {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/coach-distribution.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-transfer{
+    height: 16px;
+    width: 16px;
+    background-image: url(images/transfer.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-sbjects-assigned{
+    height: 16px;
+    width: 16px;
+    background-image: url(images/sbjects-assigned.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-switch-state{
+    height: 16px;
+    width: 16px;
+    background-image: url(images/switch-state.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-order{
+    height: 16px;
+    width: 16px;
+    background-image: url(images/order.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-order-history{
+     height: 16px;
+     width: 16px;
+     background-image: url(images/order-history.png) !important;
+     background-repeat: no-repeat;
+ }
+.silk-coach-information{
+    height: 16px;
+    width: 16px;
+    background-image: url(images/coach-information.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-student-assigned{
+    height: 16px;
+    width: 16px;
+    background-image: url(images/student-assigned.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-alarm-position{
+    height: 16px;
+    width: 16px;
+    background-image: url(images/alarm-position.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-coach-schedule{
+    height: 16px;
+    width: 16px;
+    background-image: url(images/coach-schedule.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-check-done{
+    height: 16px;
+    width: 16px;
+    background-image: url(images/check-done.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-check-fail{
+    height: 16px;
+    width: 16px;
+    background-image: url(images/check-fail.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-undeclare {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/undeclare.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-details-break {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/details-break.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-pinish-details {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/pinish-details.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-evaluate-detail {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/evaluate-detail.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-download {
+    height: 16px;
+    width: 16px;
+    background-image: url(images/download.png) !important;
+    background-repeat: no-repeat;
+}
+.silk-arrow-up{
+    height: 16px;
+    width: 16px;
+    background-image: url(images/arrow-up.gif) !important;
+    background-repeat: no-repeat;
+}
+.silk-arrow-down{
+    height: 16px;
+    width: 16px;
+    background-image: url(images/arrow-down.gif) !important;
+    background-repeat: no-repeat;
+}

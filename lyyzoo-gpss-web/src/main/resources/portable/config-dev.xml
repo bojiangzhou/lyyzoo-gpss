@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<portable-config>
+	<config-file path="WEB-INF/classes/config/config.properties">
+
+		<!-- JDBC -->
+		<replace key="jdbc.driver"><![CDATA[net.sf.log4jdbc.DriverSpy]]></replace>
+		<replace key="jdbc.url"><![CDATA[jdbc:log4jdbc:mysql://localhost:3306/gpss?useUnicode=true&characterEncoding=utf-8&autoReconnect=true&failOverReadOnly=false]]></replace>
+		<replace key="jdbc.username">root</replace>
+		<replace key="jdbc.password">root</replace>
+
+		<!-- hibernate -->
+		<replace key="hibernate.show.sql">false</replace>
+		<replace key="hibernate.hbm2ddl.auto">none</replace>
+
+		<!-- debug -->
+		<replace key="app.debug">true</replace>
+		<replace key="app.env">dev</replace>
+		<replace key="logback.level">DEBUG</replace>
+		<replace key="jdbc.resultsettable">ERROR</replace>
+
+	</config-file>
+</portable-config>
