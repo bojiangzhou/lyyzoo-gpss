@@ -1,4 +1,5 @@
 # lyyzoo-gpss
+#### 学校的毕业设计，完成一个燃气管进销存管理系统
 
 #### 这是进销存管理系统的业务实现，底层框架是lyyzoo[https://github.com/bojiangzhou/lyyzoo]
 
