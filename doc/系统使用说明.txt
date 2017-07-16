@@ -1,0 +1,41 @@
+
+
+燃气管进销存系统 ———— Gas Purchase Sale Stock (gpss)
+
+线上访问地址：http://gpss.butterfly.mopaasapp.com/
+(时间到了访问不了)
+
+账号和密码：
+	超级管理员：admin
+	采购员：xiaocai
+	销售员：xiaoxiao
+	库存管理员: xiaoku
+	
+	密码均为：111111
+
+========================================================================================
+
+本地部署测试：
+1.在mysql中新建数据库gpss，将gpss.sql导入该数据库
+
+2.打开gpss.war, 打开gpss.war\WEB-INF\classes\config\config.properties配置文件，修改数据库用户名和密码为自己本地数据库的用户名和密码 
+	# 数据库用户名
+	jdbc.username=root
+	# 数据库密码
+	jdbc.password=root
+
+3.将gpss.war包放入tomcat/webapps目录下
+
+4.启动tomcat服务器
+
+5.打开浏览器，输入 localhost:8080/gpss 进入登录界面
+
+6.输入用户名和密码访问系统
+	
+========================================================================================
+ 
+工程结构说明：
+系统包含两个工程，lyyzoo和lyyzoo-gpss。lyyzoo是底层代码，集成了SSH框架等资源。lyyzoo-gpss是基于lyyzoo的燃气管进销存系统。
+系统使用Intellij IDEA开发，使用maven管理项目。
+
+
