@@ -25,8 +25,14 @@
 　　　　* 建模工具：PowerDesigner、Visio
 
 #### 项目截图
+##### 项目底层目录 lyyzoo
+![项目底层结构](https://github.com/bojiangzhou/lyyzoo-gpss/blob/master/doc/%E5%B7%A5%E7%A8%8B%E7%BB%93%E6%9E%84%E6%88%AA%E5%9B%BE/lyyzoo%E5%BA%95%E5%B1%82%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84.jpg)
+
+##### 底层类结构设计
+![底层类结构设计](https://github.com/bojiangzhou/lyyzoo-gpss/blob/master/doc/%E5%B7%A5%E7%A8%8B%E7%BB%93%E6%9E%84%E6%88%AA%E5%9B%BE/%E5%BA%95%E5%B1%82%E7%B1%BB%E7%BB%93%E6%9E%84.jpg)
+
 ##### 工程目录结构
- ![工程目录结构](https://github.com/bojiangzhou/lyyzoo-gpss/blob/master/doc/%E5%B7%A5%E7%A8%8B%E7%BB%93%E6%9E%84%E6%88%AA%E5%9B%BE/lyyzoo%E5%BA%95%E5%B1%82%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84.jpg?raw=true)
+ ![工程目录结构](https://github.com/bojiangzhou/lyyzoo-gpss/blob/master/doc/%E5%B7%A5%E7%A8%8B%E7%BB%93%E6%9E%84%E6%88%AA%E5%9B%BE/lyyzoo-gpss%E8%BF%9B%E9%94%80%E5%AD%98%E7%B3%BB%E7%BB%9F%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84.jpg)
  
 ##### 系统模块
 ![系统模块](https://github.com/bojiangzhou/lyyzoo-gpss/blob/master/doc/%E5%B7%A5%E7%A8%8B%E7%BB%93%E6%9E%84%E6%88%AA%E5%9B%BE/%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E7%BB%93%E6%9E%84.jpg?raw=true)
